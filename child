@@ -1,0 +1,5 @@
+def click(n) :
+    p=n//2
+    if n % 2 ==1 :
+       p=(n+1)//2
+    return (p)
